@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCoursework", "Assembly-CSharp.csproj", "{B90EFB08-0B9C-B46E-334D-D72AEFCF5DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCoursework", "Assembly-CSharp-firstpass.csproj", "{5BBA1520-8763-09ED-4D7A-44FA0F3B93E8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCoursework", "Assembly-CSharp-Editor-firstpass.csproj", "{90072F82-9684-EC4F-46F3-5E4E2281564C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,14 +13,6 @@ Global
 		{B90EFB08-0B9C-B46E-334D-D72AEFCF5DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90EFB08-0B9C-B46E-334D-D72AEFCF5DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90EFB08-0B9C-B46E-334D-D72AEFCF5DC9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BBA1520-8763-09ED-4D7A-44FA0F3B93E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BBA1520-8763-09ED-4D7A-44FA0F3B93E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BBA1520-8763-09ED-4D7A-44FA0F3B93E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BBA1520-8763-09ED-4D7A-44FA0F3B93E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90072F82-9684-EC4F-46F3-5E4E2281564C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90072F82-9684-EC4F-46F3-5E4E2281564C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90072F82-9684-EC4F-46F3-5E4E2281564C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90072F82-9684-EC4F-46F3-5E4E2281564C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
