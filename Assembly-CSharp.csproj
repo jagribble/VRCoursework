@@ -52,9 +52,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\PlayerController.cs" />
- <Reference Include="Assembly-CSharp-firstpass">
- <HintPath>/Users/G/Desktop/Year3/Virtual Reality/VRCoursework/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
