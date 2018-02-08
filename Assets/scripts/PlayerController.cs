@@ -25,12 +25,10 @@ public class PlayerController : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
-
-        // Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
         transform.Translate(moveHorizontal * Time.deltaTime * speed, 0f, moveVertical * Time.deltaTime*speed);
 
 
-		//https://gamedev.stackexchange.com/questions/104693/how-to-use-input-getaxismouse-x-y-to-rotate-the-camera
+		//Modifed from https://gamedev.stackexchange.com/questions/104693/how-to-use-input-getaxismouse-x-y-to-rotate-the-camera
 	
 	
 		pitch -= speedV * Input.GetAxis("Mouse Y");
